@@ -1,0 +1,20 @@
+.edit-post {
+  max-width: 600px;     /* ✅ controls how wide the form is */
+  margin: 2rem auto;     /* ✅ centers it horizontally */
+  padding: 1rem;
+  border-radius: 8px;
+
+}
+.delete-button {
+  background-color: crimson;
+  color: white;
+  border: none;
+
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+
+.delete-button:hover {
+  background-color: darkred;
+}
